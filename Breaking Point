@@ -8,7 +8,7 @@ if game.PlaceId == 648362523 then
         "SendNotification",
         {
             Title = "Breaking Point Credits Hack",
-            Text = "Script Made By Mikeexc."
+            Text = "Script Made By ShieldCrpyt."
         }
     )
     
